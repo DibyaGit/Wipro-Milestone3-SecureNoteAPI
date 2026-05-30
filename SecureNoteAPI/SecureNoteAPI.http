@@ -1,0 +1,8 @@
+POST https://localhost:7246/api/notes
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Im5vdGV0YWtlciIsIm5hbWVpZCI6IjEiLCJuYmYiOjE3ODAxMjY5MTgsImV4cCI6MTc4MDEzMDUxOCwiaWF0IjoxNzgwMTI2OTE4LCJpc3MiOiJTZWN1cmVOb3RlQVBJIiwiYXVkIjoiU2VjdXJlTm90ZUFQSVVzZXJzIn0.IR-R0o7uWdXzWVX_Q7pmuSsAZhwTJmEOs83FGfTJGzs
+
+{
+  "title": "Grocery List",
+  "content": "Eggs, Milk, Bread"
+}
